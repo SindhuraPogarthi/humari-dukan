@@ -1,0 +1,7 @@
+.product-outer{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    align-content: space-evenly;
+    justify-content: space-evenly;
+}
